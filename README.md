@@ -19,9 +19,6 @@
 </p>
 
 
-
-https://github.com/Kodluyoruz-Flutter-Bootcamp/week3odev3-aytacaydemir/blob/main/hmw3_images/add_update_2.jpg
-
 - In this project, it was tried to be done by using the source [Sıla Kaçmaz - Login Page](https://github.com/kacmazsila/login_page) and [Sıla Kaçmaz - sqflite example](https://github.com/kacmazsila/sqlite_example) 
 
 
